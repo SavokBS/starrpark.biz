@@ -3,7 +3,7 @@ starrpark.biz open-source by savok
 
 
 # what works
-Everything works except gallery image's site.
+Everything works except gallery image's site. (I will do it later)
 
 # contact
 
